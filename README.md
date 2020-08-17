@@ -3,7 +3,9 @@
 ## (1) Build and train neural network models using TensorFlow 2.x
 
 You need to understand the foundational principles of machine learning (ML) and deep learning (DL)
-using TensorFlow 2.x. You need to know how to:
+using TensorFlow 2.x.
+
+You need to know how to:
 
 - [ ] Use TensorFlow 2.x
 - [ ] Build, compile and train machine learning (ML) models using TensorFlow.
@@ -29,7 +31,9 @@ using TensorFlow 2.x. You need to know how to:
 ## (2) Image classification
 
 You need to understand how to build image recognition and object detection models with deep neural
-networks and convolutional neural networks using TensorFlow 2.x. You need to know how to:
+networks and convolutional neural networks using TensorFlow 2.x.
+
+You need to know how to:
 
 - [ ] Define Convolutional neural networks with Conv2D and pooling layers.
 - [ ] Build and train models to process real-world image datasets.
@@ -43,7 +47,9 @@ networks and convolutional neural networks using TensorFlow 2.x. You need to kno
 ## (3) Natural language processing (NLP)
 
 You need to understand how to use neural networks to solve natural language processing problems
-using TensorFlow. You need to know how to:
+using TensorFlow.
+
+You need to know how to:
 
 - [ ] Build natural language processing systems using TensorFlow.
 - [ ] Prepare text to use in TensorFlow models.
@@ -58,8 +64,9 @@ using TensorFlow. You need to know how to:
 
 ## (4) Time series, sequences and predictions
 
-You need to understand how to solve time series and forecasting problems in TensorFlow.You need to
-know how to:
+You need to understand how to solve time series and forecasting problems in TensorFlow.
+
+You need to know how to:
 
 - [ ] Train, tune and use time series, sequence and prediction models.
 - [ ] Prepare data for time series learning.
@@ -72,7 +79,6 @@ know how to:
 - [ ] Adjust the learning rate dynamically in time series, sequence and prediction models
 
 
-
-
 ## References
+
 The above checklist is provided as part of the official Tensorflow Developer Certificate's [Candidate Handbook](https://www.tensorflow.org/site-assets/downloads/marketing/cert/TF_Certificate_Candidate_Handbook.pdf)
