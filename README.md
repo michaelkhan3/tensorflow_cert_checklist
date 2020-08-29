@@ -9,9 +9,9 @@ You need to know how to:
 
 - [ ] Use TensorFlow 2.x
 - [ ] Build, compile and train machine learning (ML) models using TensorFlow.
-- [ ] Preprocess data to get it ready for use in a model. 
+- [ ] Preprocess data to get it ready for use in a model.
 - [ ] Use models to predict results.
-- [ ] Build sequentisl models with multiple layers.
+- [ ] Build sequential models with multiple layers.
 - [ ] [Build and train models for binary classification.](01-build-and-train-models/binary_classification.ipynb)
 - [ ] Build and train models for multi-class categorization.
 - [ ] Plot loss and accuracy of a trained model.
