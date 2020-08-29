@@ -12,7 +12,7 @@ You need to know how to:
 - [ ] Preprocess data to get it ready for use in a model. 
 - [ ] Use models to predict results.
 - [ ] Build sequentisl models with multiple layers.
-- [ ] Build and train models for binary classification.
+- [ ] [Build and train models for binary classification.](01-build-and-train-models/binary_classification.ipynb)
 - [ ] Build and train models for multi-class categorization.
 - [ ] Plot loss and accuracy of a trained model.
 - [ ] Identify strategies to prevent overfitting, including augmentation and dropout.
