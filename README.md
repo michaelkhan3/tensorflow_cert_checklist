@@ -13,7 +13,7 @@ You need to know how to:
 - [ ] Use models to predict results.
 - [ ] Build sequential models with multiple layers.
 - [ ] [Build and train models for binary classification.](01-build-and-train-models/binary_classification.ipynb)
-- [ ] Build and train models for multi-class categorization.
+- [ ] [Build and train models for multi-class categorization.](01-build-and-train-models/multi_class_categorization.ipynb)
 - [ ] Plot loss and accuracy of a trained model.
 - [ ] Identify strategies to prevent overfitting, including augmentation and dropout.
 - [ ] Use pretrained models (transfer learning).
