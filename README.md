@@ -15,8 +15,8 @@ You need to know how to:
 - [ ] [Build and train models for binary classification.](01-build-and-train-models/binary_classification.ipynb)
 - [ ] [Build and train models for multi-class categorization.](01-build-and-train-models/multi_class_categorization.ipynb)
 - [ ] [Plot loss and accuracy of a trained model.](01-build-and-train-models/plot_loss_and_accuracy.ipynb)
-- [ ] Identify strategies to prevent overfitting, including augmentation and dropout.
-- [ ] Use pretrained models (transfer learning).
+- [ ] Identify strategies to prevent overfitting, including augmentation and dropout. [Temp Example](01-build-and-train-models/transfer_learning.ipynb)
+- [ ] [Use pretrained models (transfer learning).](01-build-and-train-models/transfer_learning.ipynb)
 - [ ] Extract features from pre-trained models.
 - [ ] Ensure that inputs to a model are in the correct shape.
 - [ ] Ensure that you can match test data to the input shape of a neural network.
@@ -78,6 +78,12 @@ You need to know how to:
 - [ ] Identify and compensate for sequence bias.
 - [ ] Adjust the learning rate dynamically in time series, sequence and prediction models
 
+
+## (5) Extra Stuff
+
+These items are not listed in the certification checklist but I think they are useful
+
+- [ ] [Using Tensorboard](01-build-and-train-models/transfer_learning.ipynb#set-up-tensorboard)
 
 ## References
 
