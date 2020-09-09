@@ -24,7 +24,7 @@ You need to know how to:
 - [ ] Understand batch loading of data.
 - [ ] Use callbacks to trigger the end of training cycles.
 - [ ] Use datasets from different sources.
-- [ ] Use datasets in different formats, including json and csv.
+- [ ] Use datasets in different formats, including json and [csv](04-time-series/time_series.ipynb).
 - [ ] Use datasets from tf.data.datasets.
 
 
@@ -68,15 +68,17 @@ You need to understand how to solve time series and forecasting problems in Tens
 
 You need to know how to:
 
-- [ ] Train, tune and use time series, sequence and prediction models.
-- [ ] Prepare data for time series learning.
-- [ ] Understand Mean Average Error (MAE) and how it can be used to evaluate accuracy of sequence models.
-- [ ] Use RNNs and CNNs for time series, sequence and forecasting models.
+- [x] [Train, tune and use time series, sequence and prediction models.](04-time-series/time_series.ipynb)
+- [x] [Prepare data for time series learning.](04-time-series/time_series.ipynb)
+- [x] [Understand Mean Average Error (MAE) and how it can be used to evaluate accuracy of sequence models.](04-time-series/time_series.ipynb)
+- [x] [Use RNNs and CNNs for time series, sequence and forecasting models.](04-time-series/time_series.ipynb)
 - [ ] Identify when to use trailing versus centred windows.
-- [ ] Use TensorFlow for forecasting.
+- [x] [Use TensorFlow for forecasting.](04-time-series/time_series.ipynb)
 - [ ] Prepare features and labels.
 - [ ] Identify and compensate for sequence bias.
-- [ ] Adjust the learning rate dynamically in time series, sequence and prediction models
+- [x] [Adjust the learning rate dynamically in time series, sequence and prediction models](04-time-series/time_series.ipynb)
+
+[TensorFlow example](https://www.tensorflow.org/tutorials/structured_data/time_series)
 
 
 ## (5) Extra Stuff
