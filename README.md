@@ -11,11 +11,11 @@ You need to know how to:
 - [ ] Build, compile and train machine learning (ML) models using TensorFlow.
 - [ ] Preprocess data to get it ready for use in a model.
 - [ ] Use models to predict results.
-- [ ] Build sequential models with multiple layers.
+- [ ] [Build sequential models with multiple layers.](01-build-and-train-models/binary_classification.ipynb)
 - [ ] [Build and train models for binary classification.](01-build-and-train-models/binary_classification.ipynb)
 - [ ] [Build and train models for multi-class categorization.](01-build-and-train-models/multi_class_categorization.ipynb)
 - [ ] [Plot loss and accuracy of a trained model.](01-build-and-train-models/plot_loss_and_accuracy.ipynb)
-- [ ] Identify strategies to prevent overfitting, including augmentation and dropout. [Temp Example](01-build-and-train-models/transfer_learning.ipynb)
+- [ ] [Identify strategies to prevent overfitting, including augmentation and dropout.](01-build-and-train-models/transfer_learning.ipynb)
 - [ ] [Use pretrained models (transfer learning).](01-build-and-train-models/transfer_learning.ipynb)
 - [ ] Extract features from pre-trained models.
 - [ ] Ensure that inputs to a model are in the correct shape.
@@ -35,13 +35,13 @@ networks and convolutional neural networks using TensorFlow 2.x.
 
 You need to know how to:
 
-- [ ] Define Convolutional neural networks with Conv2D and pooling layers.
-- [ ] Build and train models to process real-world image datasets.
+- [ ] [Define Convolutional neural networks with Conv2D and pooling layers.](01-build-and-train-models/binary_classification.ipynb)
+- [ ] [Build and train models to process real-world image datasets.](01-build-and-train-models/binary_classification.ipynb)
 - [ ] Understand how to use convolutions to improve your neural network.
-- [ ] Use real-world images in different shapes and sizes..
-- [ ] Use image augmentation to prevent overfitting.
-- [ ] Use ImageDataGenerator.
-- [ ] Understand how ImageDataGenerator labels images based on the directory structure
+- [ ] [Use real-world images in different shapes and sizes..](01-build-and-train-models/binary_classification.ipynb)
+- [ ] [Use image augmentation to prevent overfitting.](01-build-and-train-models/transfer_learning.ipynb)
+- [ ] [Use ImageDataGenerator.](01-build-and-train-models/binary_classification.ipynb)
+- [ ] [Understand how ImageDataGenerator labels images based on the directory structure](01-build-and-train-models/binary_classification.ipynb)
 
 
 ## (3) Natural language processing (NLP)
