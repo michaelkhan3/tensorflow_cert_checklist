@@ -11,11 +11,11 @@ You need to know how to:
 - [ ] Build, compile and train machine learning (ML) models using TensorFlow.
 - [ ] Preprocess data to get it ready for use in a model.
 - [ ] Use models to predict results.
-- [ ] Build sequential models with multiple layers.
+- [ ] [Build sequential models with multiple layers.](01-build-and-train-models/binary_classification.ipynb)
 - [ ] [Build and train models for binary classification.](01-build-and-train-models/binary_classification.ipynb)
 - [ ] [Build and train models for multi-class categorization.](01-build-and-train-models/multi_class_categorization.ipynb)
 - [ ] [Plot loss and accuracy of a trained model.](01-build-and-train-models/plot_loss_and_accuracy.ipynb)
-- [ ] Identify strategies to prevent overfitting, including augmentation and dropout. [Temp Example](01-build-and-train-models/transfer_learning.ipynb)
+- [ ] [Identify strategies to prevent overfitting, including augmentation and dropout.](01-build-and-train-models/transfer_learning.ipynb)
 - [ ] [Use pretrained models (transfer learning).](01-build-and-train-models/transfer_learning.ipynb)
 - [ ] Extract features from pre-trained models.
 - [ ] Ensure that inputs to a model are in the correct shape.
@@ -35,13 +35,13 @@ networks and convolutional neural networks using TensorFlow 2.x.
 
 You need to know how to:
 
-- [ ] Define Convolutional neural networks with Conv2D and pooling layers.
-- [ ] Build and train models to process real-world image datasets.
+- [ ] [Define Convolutional neural networks with Conv2D and pooling layers.](01-build-and-train-models/binary_classification.ipynb)
+- [ ] [Build and train models to process real-world image datasets.](01-build-and-train-models/binary_classification.ipynb)
 - [ ] Understand how to use convolutions to improve your neural network.
-- [ ] Use real-world images in different shapes and sizes..
-- [ ] Use image augmentation to prevent overfitting.
-- [ ] Use ImageDataGenerator.
-- [ ] Understand how ImageDataGenerator labels images based on the directory structure
+- [ ] [Use real-world images in different shapes and sizes..](01-build-and-train-models/binary_classification.ipynb)
+- [ ] [Use image augmentation to prevent overfitting.](01-build-and-train-models/transfer_learning.ipynb)
+- [ ] [Use ImageDataGenerator.](01-build-and-train-models/binary_classification.ipynb)
+- [ ] [Understand how ImageDataGenerator labels images based on the directory structure](01-build-and-train-models/binary_classification.ipynb)
 
 
 ## (3) Natural language processing (NLP)
@@ -68,15 +68,15 @@ You need to understand how to solve time series and forecasting problems in Tens
 
 You need to know how to:
 
-- [x] [Train, tune and use time series, sequence and prediction models.](04-time-series/time_series.ipynb)
-- [x] [Prepare data for time series learning.](04-time-series/time_series.ipynb)
-- [x] [Understand Mean Average Error (MAE) and how it can be used to evaluate accuracy of sequence models.](04-time-series/time_series.ipynb)
-- [x] [Use RNNs and CNNs for time series, sequence and forecasting models.](04-time-series/time_series.ipynb)
+- [ ] [Train, tune and use time series, sequence and prediction models.](04-time-series/time_series.ipynb)
+- [ ] [Prepare data for time series learning.](04-time-series/time_series.ipynb)
+- [ ] [Understand Mean Average Error (MAE) and how it can be used to evaluate accuracy of sequence models.](04-time-series/time_series.ipynb)
+- [ ] [Use RNNs and CNNs for time series, sequence and forecasting models.](04-time-series/time_series.ipynb)
 - [ ] Identify when to use trailing versus centred windows.
-- [x] [Use TensorFlow for forecasting.](04-time-series/time_series.ipynb)
+- [ ] [Use TensorFlow for forecasting.](04-time-series/time_series.ipynb)
 - [ ] Prepare features and labels.
 - [ ] Identify and compensate for sequence bias.
-- [x] [Adjust the learning rate dynamically in time series, sequence and prediction models](04-time-series/time_series.ipynb)
+- [ ] [Adjust the learning rate dynamically in time series, sequence and prediction models](04-time-series/time_series.ipynb)
 
 [TensorFlow example](https://www.tensorflow.org/tutorials/structured_data/time_series)
 
